@@ -1,6 +1,6 @@
 services:
 - type: web
-  name: next-js
+  name: gprd-av4
   runtime: node
   plan: starter
   buildCommand: yarn; yarn build
